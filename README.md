@@ -1,3 +1,9 @@
+# Loan Calculator
+
+### MVP V1 Jan 10
+
+![Loan Calculator V1](docs/loan-calculator-v1.png)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
